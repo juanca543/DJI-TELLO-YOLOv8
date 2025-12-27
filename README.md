@@ -21,3 +21,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - Python 3.11
 - Drivers de video actualizados (especialmente si usas GPU NVIDIA)
 - Conexión WiFi al dron DJI Tello
+
+<img width="555" height="625" alt="image" src="https://github.com/user-attachments/assets/19aa1db7-ca56-4250-83d6-07376b7a14e9" />
+<img width="879" height="643" alt="image" src="https://github.com/user-attachments/assets/ea3aeb05-b939-4dfb-84d3-2efffb6dc282" />
+<img width="686" height="774" alt="image" src="https://github.com/user-attachments/assets/e381ae33-93f4-4c8d-b2cb-2a4ad0694ce3" />
+
